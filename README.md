@@ -1,4 +1,4 @@
-# MVPN
+# MVPNv
 
 Small Android 12+ VLESS VPN client with Material You UI.
 
